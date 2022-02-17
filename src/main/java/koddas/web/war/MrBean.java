@@ -108,4 +108,3 @@ public class MrBean implements Serializable {
 		this.carBrand = carBrand;
 	}
 }
-echo hlo wordld !!
